@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name":"Darwin Stephanus",
+    "occupation":"Full Stack Java Developer",
+    "description":"currently looking forward to a new opportunity in the web development world",
+    "image":"profilepic.jpg",
+    "bio":"I have always loved to dig into problems and solve them with modern technology. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I had the chance to work as a Software Engineer Intern in one of the most exciting startup company in Indonesia and was exposed to the world of web development. Since then, I have developed into a more mature web developer and I was able to learn incredible technologies other developers have created to make web application more amazing and exciting",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "darwin.stephanus@gmail.com",
+    "phone": "979-777-8989",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/darwin-stephanus-a8957b156/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/darwinstephanus",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/darwinstephanus",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/darwinstephanus",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Approximate percentage of web-technologies I am familiar with",
+    "education":[
+      {
+        "school":"Texas A&M University",
+        "degree":"Bachelors of Science in Computer Science",
+        "graduated":"January 2017 - December 2019",
+        "description":"Classes I had taken previously including Database Systems, Data Structure & Algorithms, Artificial Intelligence, Cybersecurity Risk, Design and Analysis of Algorithms, Computer and Network Security, and Software Reverse Engineering. Along with that, I got a minor in cybersecurity."
+      },
+      {
+        "school":"Blinn College",
+        "degree":"Engineering",
+        "graduated":"August 2015 - December 2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cogent Infotech",
+        "title":"Full-Stack Java Developer",
+        "years":"January 2020 - September 2020",
+        "description":"• Involved in development and testing of web application and integration projects using Object Oriented technologies such as Core Java, JEE, JDBC, Spring 4 Framework (MVC, Security, AOP, DAO), Hibernate, JSON, Apache Tomcat, and Maven.",
+        "description2": "• Used Angular 9 as a platform to build applications with the web which combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges."
+      },
+      {
+        "company":"PT Inovasi Anak Indonesia / Parkee",
+        "title":"Software Engineer Intern",
+        "years":"June 2019 - September 2019",
+        "description":"• Designed and implemented backend API using REST API and Spring Boot Framework by following MVC architecture.",
+        "description2":"• Successfully implemented new feature on SaaS application already running in AWS using React Redux.",
+        "description3":"• Controlled development, staging, and production using GitHub and AWS (Beanstalk, EC2, S3 and CloudFront)."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"78%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"90%"
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"75%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Visipaz",
+        "category":"Web Application connected to Raspberry Pi for meeting rooms built on Spring Boot and React",
+        "image":"project1.png",
+        "url":""
+      },
+      {
+        "title":"Voltogics",
+        "category":"Logistics Software build with Ruby and React",
+        "image":"project2.png",
+        "url":""
+      },
+      {
+        "title":"Voting System",
+        "category":"Voting Web Application built on Angular and Spring Boot",
+        "image":"project3.png",
+        "url":""
+      },
+      {
+        "title":"Blog",
+        "category":"Microservices personal project built with Spring Boot, Docker, and Kafka",
+        "image":"project4.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Darwin proved himself to be a dependable, proactive person, and also a hard working in problem solving and technical skill. He does not only meet the deadline but also exceeded the expectation for an engineer intern. Overall, he is a very talented person, easy going, and hard working engineer.",
+        "user":"Wilson Sumanang - CEO of PT Inovasi Anak Indonesia"
+      }
+    ]
+  }
+}
