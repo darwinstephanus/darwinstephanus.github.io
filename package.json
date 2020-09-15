@@ -2,7 +2,7 @@
   "name": "resume-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://darwinstephanus.github.io",
+  "homepage": "https://darwinstephanus.github.io/react-deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
