@@ -136,25 +136,25 @@
         "title":"Visipaz",
         "category":"Web Application connected to Raspberry Pi for meeting rooms built on Spring Boot and React",
         "image":"project1.png",
-        "url":""
+        "url":"https://github.com/darwinstephanus/visipaz-frontend"
       },
       {
         "title":"Voltogics",
         "category":"Logistics Software build with Ruby and React",
         "image":"project2.png",
-        "url":""
+        "url":"https://mobiusteknologi.com/voltogics"
       },
       {
         "title":"Voting System",
         "category":"Voting Web Application built on Angular and Spring Boot",
         "image":"project3.png",
-        "url":""
+        "url":"https://github.com/darwinstephanus/voting-system"
       },
       {
         "title":"Blog",
         "category":"Microservices personal project built with Spring Boot, Docker, and Kafka",
         "image":"project4.jpg",
-        "url":""
+        "url":"https://github.com/johnwei417/spring-blog-microservices"
       }
     ]
   },
