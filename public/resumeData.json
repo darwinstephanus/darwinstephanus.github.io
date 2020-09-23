@@ -90,27 +90,27 @@
     "skills":[
       {
         "name":"Git",
-        "level":"78%"
+        "level":"73%"
       },
       {
         "name":"Java",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"Spring Boot",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"Docker",
-        "level":"50%"
+        "level":"45%"
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"65%"
       },
       {
         "name":"CSS",
-        "level":"60%"
+        "level":"55%"
       },
       {
         "name":"HTML5",
@@ -118,15 +118,15 @@
       },
       {
         "name":"Angular",
-        "level":"75%"
+        "level":"70%"
       },
       {
         "name":"MySQL",
-        "level":"80%"
+        "level":"75%"
       },
       {
         "name":"PostgreSQL",
-        "level":"70%"
+        "level":"65%"
       }
     ]
   },
